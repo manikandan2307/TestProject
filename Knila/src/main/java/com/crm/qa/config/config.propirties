@@ -1,0 +1,6 @@
+url  = http://playactio.com:8087/
+username = admin
+password = admins
+
+browser = chrome
+browser1 = firefox
